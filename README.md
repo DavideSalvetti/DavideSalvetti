@@ -1,7 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Davide </h1>
+<h3 align="center">Software Engineer | Student at UNIBG </h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DavideSalvetti&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DavideSalvetti&theme=dark&date_format=j%20M%5B%20Y%5D" width="600">
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideSalvetti&exclude_repo=DavideSalvetti.github.io">
 <!--
 **DavideSalvetti/DavideSalvetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
