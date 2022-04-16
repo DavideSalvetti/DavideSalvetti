@@ -15,4 +15,8 @@
   
 </p>
 
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DavideSalvetti&theme=dark&date_format=j%20M%5B%20Y%5D" width="600">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DavideSalvetti&theme=dark" width="600">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideSalvetti&theme=dark" width="300">
